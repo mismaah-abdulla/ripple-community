@@ -3,14 +3,14 @@
   <v-container>
     <v-parallax id="parallax-ripple"
       dark
-      height="500"
-      src="https://miro.medium.com/max/2250/1*lBOjneH9fSUjPgM4DrkP0A.jpeg"
+      height="400"
+      src="https://i1.wp.com/mghresearchinstitute.com/wp-content/uploads/2018/03/ripple-effect.jpg?w=1678&ssl=1"
     >
       <v-row
         align="center"
         justify="start"
       >
-        <h1 class="display-4 mb-4" color="black">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
+        <h1 class="display-3 mb-4" color="primary">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
       </v-row>
     </v-parallax>
     <v-row justify="center">

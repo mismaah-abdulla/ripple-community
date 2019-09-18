@@ -1,8 +1,8 @@
 <template>
   <v-app>
-    <v-app-bar app>
+    <v-app-bar dark app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>RIPPLE</span>
+        <span class="primary--text">RIPPLE</span>
         <span class="font-weight-light">COMMUNITY</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
