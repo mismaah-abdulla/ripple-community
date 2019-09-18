@@ -45,7 +45,6 @@
   } */
 </style>
 
-
 <script>
 // import HelloWorld from '../components/HelloWorld'
 
@@ -60,9 +59,9 @@ export default {
         'secondary',
         'yellow darken-2',
         'red',
-        'orange',
-      ],
+        'orange'
+      ]
     }
-  },
+  }
 }
 </script>

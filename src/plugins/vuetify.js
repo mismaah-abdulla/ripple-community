@@ -14,8 +14,8 @@ export default new Vuetify({
         primary: colors.teal,
         secondary: colors.white,
         accent: colors.orange.lighten4,
-        error: '#b71c1c',
-      },
-    },
-  },
+        error: '#b71c1c'
+      }
+    }
+  }
 })
