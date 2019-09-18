@@ -2,21 +2,44 @@
   <v-app>
     <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>Vuetify</span>
-        <span class="font-weight-light">MATERIAL DESIGN</span>
+        <span>RIPPLE</span>
+        <span class="font-weight-light">COMMUNITY</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn
         text
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
+        href="#/about"
       >
-        <span class="mr-2">Latest Release</span>
+        <span class="mr-2">About</span>
+      </v-btn>
+      <v-btn
+        text
+        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      >
+        <span class="mr-2">Self Care</span>
+      </v-btn>
+      <v-btn
+        text
+        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      >
+        <span class="mr-2">Suicide Prevention</span>
+      </v-btn>
+      <v-btn
+        text
+        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      >
+        <span class="mr-2">Support Group</span>
+      </v-btn>
+      <v-btn
+        text
+        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+      >
+        <span class="mr-2">Contact Us</span>
       </v-btn>
     </v-app-bar>
 
     <v-content>
-      <HelloWorld/>
+      <router-view></router-view>
     </v-content>
   </v-app>
 </template>
