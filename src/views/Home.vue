@@ -1,6 +1,10 @@
 <template>
   <!-- <HelloWorld /> -->
-  <v-layout></v-layout>
+  <v-container>
+    <v-row justify="center">
+      <img src="/logo.webp">
+    </v-row>
+  </v-container>
 </template>
 
 <script>
