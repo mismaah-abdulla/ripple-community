@@ -3,14 +3,14 @@
   <v-container>
     <v-parallax id="parallax-ripple"
       dark
-      height="300"
+      height="500"
       src="https://miro.medium.com/max/2250/1*lBOjneH9fSUjPgM4DrkP0A.jpeg"
     >
       <v-row
         align="center"
-        justify="center"
+        justify="start"
       >
-        <h1 class="display-1 mb-4">Mental Health & Self Help • Wisdom & Inspiration • Life Style & Well being</h1>
+        <h1 class="display-4 mb-4" color="black">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
       </v-row>
     </v-parallax>
     <v-row justify="center">
