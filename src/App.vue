@@ -1,17 +1,12 @@
 <template>
   <v-app>
-    <v-app-bar dark app>
+    <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
         <span class="primary--text">RIPPLE</span>
         <span class="font-weight-light">COMMUNITY</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn
-        text
-        href="#/about"
-      >
-        <span class="mr-2">About</span>
-      </v-btn>
+      
       <v-btn
         text
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
@@ -29,6 +24,18 @@
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
       >
         <span class="mr-2">Support Group</span>
+      </v-btn>
+      <v-btn
+        text
+        href="/"
+      >
+        <span class="mr-2">Forum</span>
+      </v-btn>
+      <v-btn
+        text
+        href="#/about"
+      >
+        <span class="mr-2">About</span>
       </v-btn>
       <v-btn
         text

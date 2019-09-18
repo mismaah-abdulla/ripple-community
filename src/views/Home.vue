@@ -1,16 +1,16 @@
 <template>
   <!-- <HelloWorld /> -->
-  <v-container>
+  <v-container pa-0>
     <v-parallax id="parallax-ripple"
       dark
-      height="400"
-      src="https://i1.wp.com/mghresearchinstitute.com/wp-content/uploads/2018/03/ripple-effect.jpg?w=1678&ssl=1"
+      height="500"
+      src="/ripple-effect.jpg"
     >
       <v-row
         align="center"
         justify="start"
       >
-        <h1 class="display-3 mb-4" color="primary">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
+        <h1 class="display-3 mb-4 secondary--text">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
       </v-row>
     </v-parallax>
     <v-row justify="center">
