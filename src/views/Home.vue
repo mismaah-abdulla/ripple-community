@@ -3,14 +3,17 @@
   <v-container pa-0>
     <v-parallax id="parallax-ripple"
       dark
-      height="500"
+      height="600"
       src="/ripple-effect.jpg"
     >
       <v-row
         align="center"
         justify="start"
       >
-        <h1 class="display-3 mb-4 secondary--text">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
+        <v-card>
+          
+        </v-card>
+        <h1 class="display-3 mb-4 secondary--text">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Lifestyle & Well Being</h1>
       </v-row>
     </v-parallax>
     <v-row justify="center">
