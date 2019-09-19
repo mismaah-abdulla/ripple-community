@@ -13,6 +13,12 @@
         <h1 class="display-3 mb-4 secondary--text">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Life Style & Well being</h1>
       </v-row>
     </v-parallax>
+    <v-row justify="center">
+      <h1 class="display-3">What do we do?</h1>
+    </v-row>
+    <v-row justify="center">
+      <img src="/whatdowedo.png" width="50%">
+    </v-row>
     <v-carousel>
       <v-carousel-item
         v-for="(color, i) in colors"
