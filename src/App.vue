@@ -59,12 +59,13 @@
     >
       <v-card-text>
         <v-btn
-          v-for="icon in icons"
-          :key="icon"
+          v-for="contact in contacts"
+          :key="contact.id"
           class="mx-4 white--text"
           icon
+          v-bind:href="contact.link" target="_blank"
         >
-          <v-icon size="24px">{{ icon }}</v-icon>
+          <v-icon size="24px">{{ contact.icon }}</v-icon>
         </v-btn>
       </v-card-text>
 
@@ -89,12 +90,10 @@ export default {
   components: {
   },
   data: () => ({
-    icons: [
-        'mdi-facebook',
-        'mdi-twitter',
-        'mdi-google-plus',
-        'mdi-linkedin',
-        'mdi-instagram',
+    contacts: [
+        {id: 1, icon: 'mdi-facebook', link: "https://www.facebook.com/ripplecommunity.space/"},
+        {id: 2, icon: 'mdi-youtube', link: "https://www.youtube.com/channel/UCwH3qttuVdHARTyZaZXQqOw"},
+        {id: 3, icon: 'mdi-instagram', link: "https://www.instagram.com/ripple.community/"}
       ],
   })
 }
