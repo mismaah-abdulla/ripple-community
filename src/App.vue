@@ -55,7 +55,7 @@
     <v-card
       flat
       tile
-      class="teal lighten-1 white--text text-center"
+      class="black white--text text-center"
     >
       <v-card-text>
         <v-btn
