@@ -2,8 +2,10 @@
   <v-app>
     <v-app-bar app>
       <v-toolbar-title class="headline text-uppercase">
+        <a href="/">
         <span class="primary--text">RIPPLE</span>
-        <span class="font-weight-light">COMMUNITY</span>
+        <span class="font-weight-light black--text">COMMUNITY</span>
+        </a>
       </v-toolbar-title>
       <v-spacer></v-spacer>
 
@@ -69,7 +71,7 @@
         </v-btn>
       </v-card-text>
       <v-card-text>
-        <a href="https://google.com" style="text-decoration : none; color : #e6e6e6;">Terms of Use & Privacy Policy</a>
+        <a href="https://google.com" style="color : #e6e6e6;">Terms of Use & Privacy Policy</a>
       </v-card-text>
 
       <v-divider></v-divider>
@@ -83,7 +85,6 @@
 </template>
 
 <script>
-
 export default {
   name: 'App',
   components: {
@@ -97,3 +98,10 @@ export default {
   })
 }
 </script>
+
+<style>
+a {
+  color: inherit;
+  text-decoration: none;
+}
+</style>
