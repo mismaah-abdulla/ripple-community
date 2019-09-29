@@ -39,7 +39,7 @@
       </v-btn>
       <v-btn
         text
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
+        href="#/contactus"
       >
         <span class="mr-2">Contact Us</span>
       </v-btn>
