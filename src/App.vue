@@ -69,12 +69,12 @@
         </v-btn>
       </v-card-text>
       <v-card-text>
-        Terms of Use & Privacy Policy
+        <a href="https://google.com" style="text-decoration : none; color : #e6e6e6;">Terms of Use & Privacy Policy</a>
       </v-card-text>
 
       <v-divider></v-divider>
 
-      <v-card-text class="white--text">
+      <v-card-text class="primary--text">
         {{ new Date().getFullYear() }} — <strong>Ripple Community</strong>
       </v-card-text>
     </v-card>
