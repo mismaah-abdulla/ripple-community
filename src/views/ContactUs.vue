@@ -7,7 +7,7 @@
           <h1 class="subtitle-1">Contact us at <a href="mailto:ripple.theteam@gmail.com" target="_blank" style="text-decoration : none;">ripple.theteam@gmail.com</a></h1>
       </v-row>
       <v-row justify="center">
-        <h1 class="subtitle-1">Or message us on social media!</h1>
+        <h1 class="subtitle-1">Or message us on social media.</h1>
       </v-row>
       <v-row justify="center">
         <v-card>
