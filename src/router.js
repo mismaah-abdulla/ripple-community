@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import ContactUs from './views/ContactUs.vue'
+import Legal from './views/Legal.vue'
 
 Vue.use(Router)
 
@@ -24,6 +25,11 @@ export default new Router({
       path: '/contactus',
       name: "contactus",
       component: ContactUs
+    },
+    {
+      path: '/legal',
+      name: "legal",
+      component: Legal
     }
   ]
 })

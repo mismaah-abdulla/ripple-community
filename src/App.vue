@@ -71,7 +71,7 @@
         </v-btn>
       </v-card-text>
       <v-card-text>
-        <a href="https://google.com" style="color : #e6e6e6;">Terms of Use & Privacy Policy</a>
+        <a href="#/legal" style="color : #e6e6e6;">Terms of Use & Privacy Policy</a>
       </v-card-text>
 
       <v-divider></v-divider>
