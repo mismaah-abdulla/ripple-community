@@ -11,7 +11,7 @@
         justify="start"
       >
         <v-card>
-          
+
         </v-card>
         <h1 class="display-3 mb-4 secondary--text">Mental Health & Self Help <br/> Wisdom & Inspiration <br/> Lifestyle & Well Being</h1>
       </v-row>

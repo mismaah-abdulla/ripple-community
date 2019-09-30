@@ -23,12 +23,12 @@ export default new Router({
     },
     {
       path: '/contactus',
-      name: "contactus",
+      name: 'contactus',
       component: ContactUs
     },
     {
       path: '/legal',
-      name: "legal",
+      name: 'legal',
       component: Legal
     }
   ]

@@ -91,10 +91,10 @@ export default {
   },
   data: () => ({
     contacts: [
-        {id: 1, icon: 'mdi-facebook', link: "https://www.facebook.com/ripplecommunity.space/"},
-        {id: 2, icon: 'mdi-youtube', link: "https://www.youtube.com/channel/UCwH3qttuVdHARTyZaZXQqOw"},
-        {id: 3, icon: 'mdi-instagram', link: "https://www.instagram.com/ripple.community/"}
-      ],
+      { id: 1, icon: 'mdi-facebook', link: 'https://www.facebook.com/ripplecommunity.space/' },
+      { id: 2, icon: 'mdi-youtube', link: 'https://www.youtube.com/channel/UCwH3qttuVdHARTyZaZXQqOw' },
+      { id: 3, icon: 'mdi-instagram', link: 'https://www.instagram.com/ripple.community/' }
+    ]
   })
 }
 </script>
