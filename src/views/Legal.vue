@@ -30,8 +30,8 @@ purposes of verifying your identity.</p>
             <h3>Data Retention</h3>
             <p>RIPPLE will retain your personal information for as long as necessary to
 provide services users have requested (eg. newsletter, author profiles,
-etc). Personal information will also be retained and used as necessary 
-to comply with our legal obligations, resolve disputes, and enforce the
+etc). Personal information will also be retained and used as necessary
+ to comply with our legal obligations, resolve disputes, and enforce the
 agreements</p>
             <h3>Security</h3>
             <p>We have implemented administrative, technical and physical
@@ -54,8 +54,7 @@ site before any material changes are made to our privacy practices.
 Please do visit this page and review our privacy policy periodically for
 changes. By continuing to access or use Ripple after changes become
 effective, users agree to be bound by terms of the revised privacy
-policy.
-</p>        
+policy.</p>
             </v-row>
             <v-row>
             <h2 class="font-weight-light headline py-2">Terms of Use</h2>
@@ -63,8 +62,8 @@ policy.
             <v-row>
             <h3>Conditions of Use of the Site</h3>
             <p>RIPPLE is intended for persons who are 18 or older. If you are under 18,
-do not access or use the Site. The Site is offered subject to your 
-acceptance without modification of all the terms and conditions
+do not access or use the Site. The Site is offered subject to your
+ acceptance without modification of all the terms and conditions
 contained in this Agreement. By assessing or using any part of RIPPLE,
 you agree to be bound by the terms and conditions of the Agreement
 as such terms and conditions may be modified by us from time to time
@@ -119,8 +118,8 @@ to your computer, computer network, or mobile device. </p>
             <p>Neither do any parties involved in RIPPLE shall be liable for any direct,
 indirect, incidental or consequential damages resulting from the use or
 the inability to use the site or site content including, but not limited to
-(1) Damages caused by defamatory, offensive, or illegal material, (2) 
-damages caused by viruses, malfunctions, or harmful components
+(1) Damages caused by defamatory, offensive, or illegal material, (2)
+ damages caused by viruses, malfunctions, or harmful components
 accessed through the site, and (3) Damages for lost profits, loss of data,
 or other intangibles even if foreseeable or if we have been advised of
 the possibility of such damages.</p>

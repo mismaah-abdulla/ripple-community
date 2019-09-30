@@ -9,8 +9,8 @@
       <v-row justify="center">
         <h1 class="subtitle-1">Or message us on social media.</h1>
       </v-row>
-      <v-row justify="center">
-        <v-card>
+      <v-row justify="center" class="py-3">
+        <v-card outlined flat>
             <v-card-text>
                 <v-btn x-large
                 v-for="contact in contacts"
